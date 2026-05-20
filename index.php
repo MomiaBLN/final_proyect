@@ -7,4 +7,3 @@
 <body>
 </body>
 </html>
-<?php //hola!
